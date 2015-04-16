@@ -1,2 +1,5 @@
 #ignore idea folder
 /.idea
+
+#ignore all npm modules
+javascript/*/node_modules/
