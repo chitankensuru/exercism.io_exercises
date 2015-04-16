@@ -3,3 +3,8 @@
 
 #ignore all npm modules
 javascript/*/node_modules/
+
+#ignore all logfiles and tempfiles
+/log/*
+!/log/.keep
+/tmp
