@@ -20,7 +20,7 @@ Bob.prototype.isSilent = function (input){
 }
 
 Bob.prototype.isShouting = function (input) {
-    return (input === input.toUpperCase() &&  input.isNumber() == false)
+    return (input === input.toUpperCase() &&  (/[a-zA-Z]/.test(input)))
 }
 
 Bob.prototype.isQuestion = function (input) {
