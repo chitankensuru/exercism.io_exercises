@@ -1,6 +1,6 @@
 #Personal Exercism.io solutions
 
-Right now working on becoming better in Ruby and doig some sidesteps to
+Right now working on becoming better in Ruby and doing some sidesteps to
 Javascript.
 
 Format of each exercise commit
